@@ -1,0 +1,10 @@
+0 Acacia
+1 Bamboo
+2 Banana
+3 Coconut
+4 Guava
+5 Jackfruit
+6 Mahogany
+7 Mango
+8 Narra
+9 Papaya
